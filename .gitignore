@@ -1,0 +1,6 @@
+__pycache__
+.pycrunch-config.yaml
+/notebooks
+.ipynb_checkpoints
+.dbeaver
+.project

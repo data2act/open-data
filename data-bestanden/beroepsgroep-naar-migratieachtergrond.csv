@@ -27,10 +27,10 @@ Leidsters kinderopvang en onderwijsassistenten;100;Nederlandse achtergrond;82.6
 Leidsters kinderopvang en onderwijsassistenten;100;Westerse migratieachtergrond;8
 Leidsters kinderopvang en onderwijsassistenten;100;Niet-westerse migratieachtergrond;9.3
 Leidsters kinderopvang en onderwijsassistenten;100;Migratieachtergrond onbekend;0.1
-Bibliothecarissen en conservatoren;.;Nederlandse achtergrond;.
-Bibliothecarissen en conservatoren;.;Westerse migratieachtergrond;.
-Bibliothecarissen en conservatoren;.;Niet-westerse migratieachtergrond;.
-Bibliothecarissen en conservatoren;.;Migratieachtergrond onbekend;.
+Bibliothecarissen en conservatoren;;Nederlandse achtergrond;
+Bibliothecarissen en conservatoren;;Westerse migratieachtergrond;
+Bibliothecarissen en conservatoren;;Niet-westerse migratieachtergrond;
+Bibliothecarissen en conservatoren;;Migratieachtergrond onbekend;
 Auteurs en taalkundigen;100;Nederlandse achtergrond;68.5
 Auteurs en taalkundigen;100;Westerse migratieachtergrond;21.4
 Auteurs en taalkundigen;100;Niet-westerse migratieachtergrond;10
@@ -55,10 +55,10 @@ Fotografen en interieurontwerpers;100;Nederlandse achtergrond;79.5
 Fotografen en interieurontwerpers;100;Westerse migratieachtergrond;13.4
 Fotografen en interieurontwerpers;100;Niet-westerse migratieachtergrond;7.1
 Fotografen en interieurontwerpers;100;Migratieachtergrond onbekend;0
-Adviseurs marketing, public relations en sales;100;Nederlandse achtergrond;81.5
-Adviseurs marketing, public relations en sales;100;Westerse migratieachtergrond;10.6
-Adviseurs marketing, public relations en sales;100;Niet-westerse migratieachtergrond;7.8
-Adviseurs marketing, public relations en sales;100;Migratieachtergrond onbekend;0.1
+Adviseurs marketing public relations en sales;100;Nederlandse achtergrond;81.5
+Adviseurs marketing public relations en sales;100;Westerse migratieachtergrond;10.6
+Adviseurs marketing public relations en sales;100;Niet-westerse migratieachtergrond;7.8
+Adviseurs marketing public relations en sales;100;Migratieachtergrond onbekend;0.1
 Vertegenwoordigers en inkopers;100;Nederlandse achtergrond;79.9
 Vertegenwoordigers en inkopers;100;Westerse migratieachtergrond;12.2
 Vertegenwoordigers en inkopers;100;Niet-westerse migratieachtergrond;7.9
@@ -175,10 +175,10 @@ Managers detail- en groothandel;100;Nederlandse achtergrond;78.5
 Managers detail- en groothandel;100;Westerse migratieachtergrond;11.2
 Managers detail- en groothandel;100;Niet-westerse migratieachtergrond;10.3
 Managers detail- en groothandel;100;Migratieachtergrond onbekend;0
-Managers commerciële en persoonlijke dienstverlening;.;Nederlandse achtergrond;.
-Managers commerciële en persoonlijke dienstverlening;.;Westerse migratieachtergrond;.
-Managers commerciële en persoonlijke dienstverlening;.;Niet-westerse migratieachtergrond;.
-Managers commerciële en persoonlijke dienstverlening;.;Migratieachtergrond onbekend;.
+Managers commerciële en persoonlijke dienstverlening;;Nederlandse achtergrond;.
+Managers commerciële en persoonlijke dienstverlening;;Westerse migratieachtergrond;.
+Managers commerciële en persoonlijke dienstverlening;;Niet-westerse migratieachtergrond;.
+Managers commerciële en persoonlijke dienstverlening;;Migratieachtergrond onbekend;.
 Managers z.n.d.;100;Nederlandse achtergrond;82.1
 Managers z.n.d.;100;Westerse migratieachtergrond;9.4
 Managers z.n.d.;100;Niet-westerse migratieachtergrond;8.1
@@ -195,10 +195,10 @@ Juristen;100;Nederlandse achtergrond;75.3
 Juristen;100;Westerse migratieachtergrond;15
 Juristen;100;Niet-westerse migratieachtergrond;9.6
 Juristen;100;Migratieachtergrond onbekend;0
-Politie-inspecteurs;.;Nederlandse achtergrond;.
-Politie-inspecteurs;.;Westerse migratieachtergrond;.
-Politie-inspecteurs;.;Niet-westerse migratieachtergrond;.
-Politie-inspecteurs;.;Migratieachtergrond onbekend;.
+Politie-inspecteurs;;Nederlandse achtergrond;
+Politie-inspecteurs;;Westerse migratieachtergrond;
+Politie-inspecteurs;;Niet-westerse migratieachtergrond;
+Politie-inspecteurs;;Migratieachtergrond onbekend;
 Politie en brandweer;100;Nederlandse achtergrond;84.6
 Politie en brandweer;100;Westerse migratieachtergrond;8
 Politie en brandweer;100;Niet-westerse migratieachtergrond;7.4
@@ -287,10 +287,10 @@ Productcontroleurs;100;Nederlandse achtergrond;82
 Productcontroleurs;100;Westerse migratieachtergrond;7.4
 Productcontroleurs;100;Niet-westerse migratieachtergrond;10.6
 Productcontroleurs;100;Migratieachtergrond onbekend;0
-Meubelmakers, kleermakers en stoffeerders;100;Nederlandse achtergrond;75.3
-Meubelmakers, kleermakers en stoffeerders;100;Westerse migratieachtergrond;11.4
-Meubelmakers, kleermakers en stoffeerders;100;Niet-westerse migratieachtergrond;12.8
-Meubelmakers, kleermakers en stoffeerders;100;Migratieachtergrond onbekend;0.5
+Meubelmakers kleermakers en stoffeerders;100;Nederlandse achtergrond;75.3
+Meubelmakers kleermakers en stoffeerders;100;Westerse migratieachtergrond;11.4
+Meubelmakers kleermakers en stoffeerders;100;Niet-westerse migratieachtergrond;12.8
+Meubelmakers kleermakers en stoffeerders;100;Migratieachtergrond onbekend;0.5
 Medewerkers drukkerij en kunstnijverheid;100;Nederlandse achtergrond;78.8
 Medewerkers drukkerij en kunstnijverheid;100;Westerse migratieachtergrond;11.8
 Medewerkers drukkerij en kunstnijverheid;100;Niet-westerse migratieachtergrond;9.3
@@ -331,10 +331,10 @@ Land- en bosbouwers;100;Nederlandse achtergrond;92.7
 Land- en bosbouwers;100;Westerse migratieachtergrond;5.9
 Land- en bosbouwers;100;Niet-westerse migratieachtergrond;1.4
 Land- en bosbouwers;100;Migratieachtergrond onbekend;0
-Hoveniers, tuinders en kwekers;100;Nederlandse achtergrond;86.2
-Hoveniers, tuinders en kwekers;100;Westerse migratieachtergrond;8
-Hoveniers, tuinders en kwekers;100;Niet-westerse migratieachtergrond;5.8
-Hoveniers, tuinders en kwekers;100;Migratieachtergrond onbekend;0
+Hoveniers tuinders en kwekers;100;Nederlandse achtergrond;86.2
+Hoveniers tuinders en kwekers;100;Westerse migratieachtergrond;8
+Hoveniers tuinders en kwekers;100;Niet-westerse migratieachtergrond;5.8
+Hoveniers tuinders en kwekers;100;Migratieachtergrond onbekend;0
 Veetelers;100;Nederlandse achtergrond;95.5
 Veetelers;100;Westerse migratieachtergrond;3
 Veetelers;100;Niet-westerse migratieachtergrond;1.5
@@ -383,10 +383,10 @@ Medisch vakspecialisten;100;Nederlandse achtergrond;79
 Medisch vakspecialisten;100;Westerse migratieachtergrond;12
 Medisch vakspecialisten;100;Niet-westerse migratieachtergrond;8.6
 Medisch vakspecialisten;100;Migratieachtergrond onbekend;0.4
-Sociaal werkers, groeps- en woonbegeleiders;100;Nederlandse achtergrond;81
-Sociaal werkers, groeps- en woonbegeleiders;100;Westerse migratieachtergrond;7.6
-Sociaal werkers, groeps- en woonbegeleiders;100;Niet-westerse migratieachtergrond;11.2
-Sociaal werkers, groeps- en woonbegeleiders;100;Migratieachtergrond onbekend;0.1
+Sociaal werkers groeps- en woonbegeleiders;100;Nederlandse achtergrond;81
+Sociaal werkers groeps- en woonbegeleiders;100;Westerse migratieachtergrond;7.6
+Sociaal werkers groeps- en woonbegeleiders;100;Niet-westerse migratieachtergrond;11.2
+Sociaal werkers groeps- en woonbegeleiders;100;Migratieachtergrond onbekend;0.1
 Verzorgenden;100;Nederlandse achtergrond;79.3
 Verzorgenden;100;Westerse migratieachtergrond;7.5
 Verzorgenden;100;Niet-westerse migratieachtergrond;13.1
@@ -427,10 +427,10 @@ Dekofficieren en piloten;100;Nederlandse achtergrond;87.8
 Dekofficieren en piloten;100;Westerse migratieachtergrond;9.3
 Dekofficieren en piloten;100;Niet-westerse migratieachtergrond;2.9
 Dekofficieren en piloten;100;Migratieachtergrond onbekend;0
-Chauffeurs auto's, taxi's en bestelwagens;100;Nederlandse achtergrond;70.9
-Chauffeurs auto's, taxi's en bestelwagens;100;Westerse migratieachtergrond;7.9
-Chauffeurs auto's, taxi's en bestelwagens;100;Niet-westerse migratieachtergrond;21
-Chauffeurs auto's, taxi's en bestelwagens;100;Migratieachtergrond onbekend;0.2
+Chauffeurs auto's taxi's en bestelwagens;100;Nederlandse achtergrond;70.9
+Chauffeurs auto's taxi's en bestelwagens;100;Westerse migratieachtergrond;7.9
+Chauffeurs auto's taxi's en bestelwagens;100;Niet-westerse migratieachtergrond;21
+Chauffeurs auto's taxi's en bestelwagens;100;Migratieachtergrond onbekend;0.2
 Buschauffeurs en trambestuurders;100;Nederlandse achtergrond;70.6
 Buschauffeurs en trambestuurders;100;Westerse migratieachtergrond;6.3
 Buschauffeurs en trambestuurders;100;Niet-westerse migratieachtergrond;23
@@ -443,10 +443,10 @@ Bedieners mobiele machines;100;Nederlandse achtergrond;80.6
 Bedieners mobiele machines;100;Westerse migratieachtergrond;7.4
 Bedieners mobiele machines;100;Niet-westerse migratieachtergrond;11.2
 Bedieners mobiele machines;100;Migratieachtergrond onbekend;0.7
-Laders, lossers en vakkenvullers;100;Nederlandse achtergrond;68.9
-Laders, lossers en vakkenvullers;100;Westerse migratieachtergrond;11.3
-Laders, lossers en vakkenvullers;100;Niet-westerse migratieachtergrond;19.7
-Laders, lossers en vakkenvullers;100;Migratieachtergrond onbekend;0.1
+Laders lossers en vakkenvullers;100;Nederlandse achtergrond;68.9
+Laders lossers en vakkenvullers;100;Westerse migratieachtergrond;11.3
+Laders lossers en vakkenvullers;100;Niet-westerse migratieachtergrond;19.7
+Laders lossers en vakkenvullers;100;Migratieachtergrond onbekend;0.1
 Vuilnisophalers en dagbladenbezorgers;100;Nederlandse achtergrond;73
 Vuilnisophalers en dagbladenbezorgers;100;Westerse migratieachtergrond;8.5
 Vuilnisophalers en dagbladenbezorgers;100;Niet-westerse migratieachtergrond;18.4

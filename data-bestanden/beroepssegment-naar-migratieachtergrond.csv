@@ -19,10 +19,10 @@ Vakspecialisten op artistiek en cultureel gebied;100;Nederlandse achtergrond;76,
 Vakspecialisten op artistiek en cultureel gebied;100;Westerse migratieachtergrond;15,5
 Vakspecialisten op artistiek en cultureel gebied;100;Niet-westerse migratieachtergrond;7,7
 Vakspecialisten op artistiek en cultureel gebied;100;Migratieachtergrond onbekend;0,2
-Adviseurs marketing, public relations en sales;100;Nederlandse achtergrond;81,5
-Adviseurs marketing, public relations en sales;100;Westerse migratieachtergrond;10,6
-Adviseurs marketing, public relations en sales;100;Niet-westerse migratieachtergrond;7,8
-Adviseurs marketing, public relations en sales;100;Migratieachtergrond onbekend;0,1
+Adviseurs marketing public relations en sales;100;Nederlandse achtergrond;81,5
+Adviseurs marketing public relations en sales;100;Westerse migratieachtergrond;10,6
+Adviseurs marketing public relations en sales;100;Niet-westerse migratieachtergrond;7,8
+Adviseurs marketing public relations en sales;100;Migratieachtergrond onbekend;0,1
 Vertegenwoordigers en inkopers;100;Nederlandse achtergrond;79,9
 Vertegenwoordigers en inkopers;100;Westerse migratieachtergrond;12,2
 Vertegenwoordigers en inkopers;100;Niet-westerse migratieachtergrond;7,9
@@ -55,10 +55,10 @@ Managers productie en gespecialiseerde dienstverlening;100;Nederlandse achtergro
 Managers productie en gespecialiseerde dienstverlening;100;Westerse migratieachtergrond;9,4
 Managers productie en gespecialiseerde dienstverlening;100;Niet-westerse migratieachtergrond;6,2
 Managers productie en gespecialiseerde dienstverlening;100;Migratieachtergrond onbekend;0,1
-Managers horeca, detailhandel en overige diensten;100;Nederlandse achtergrond;77,3
-Managers horeca, detailhandel en overige diensten;100;Westerse migratieachtergrond;10,5
-Managers horeca, detailhandel en overige diensten;100;Niet-westerse migratieachtergrond;12,2
-Managers horeca, detailhandel en overige diensten;100;Migratieachtergrond onbekend;0
+Managers horeca detailhandel en overige diensten;100;Nederlandse achtergrond;77,3
+Managers horeca detailhandel en overige diensten;100;Westerse migratieachtergrond;10,5
+Managers horeca detailhandel en overige diensten;100;Niet-westerse migratieachtergrond;12,2
+Managers horeca detailhandel en overige diensten;100;Migratieachtergrond onbekend;0
 Managers z.n.d.;100;Nederlandse achtergrond;82,1
 Managers z.n.d.;100;Westerse migratieachtergrond;9,4
 Managers z.n.d.;100;Niet-westerse migratieachtergrond;8,1
@@ -75,10 +75,10 @@ Beveiligingswerkers;100;Nederlandse achtergrond;79,3
 Beveiligingswerkers;100;Westerse migratieachtergrond;10,2
 Beveiligingswerkers;100;Niet-westerse migratieachtergrond;10,5
 Beveiligingswerkers;100;Migratieachtergrond onbekend;0
-Ingenieurs en onderzoekers wis-, natuur- en technische wetenschappen;100;Nederlandse achtergrond;78,6
-Ingenieurs en onderzoekers wis-, natuur- en technische wetenschappen;100;Westerse migratieachtergrond;14
-Ingenieurs en onderzoekers wis-, natuur- en technische wetenschappen;100;Niet-westerse migratieachtergrond;7,3
-Ingenieurs en onderzoekers wis-, natuur- en technische wetenschappen;100;Migratieachtergrond onbekend;0,2
+Ingenieurs en onderzoekers wis- natuur- en technische wetenschappen;100;Nederlandse achtergrond;78,6
+Ingenieurs en onderzoekers wis- natuur- en technische wetenschappen;100;Westerse migratieachtergrond;14
+Ingenieurs en onderzoekers wis- natuur- en technische wetenschappen;100;Niet-westerse migratieachtergrond;7,3
+Ingenieurs en onderzoekers wis- natuur- en technische wetenschappen;100;Migratieachtergrond onbekend;0,2
 Vakspecialisten natuur en techniek;100;Nederlandse achtergrond;81,9
 Vakspecialisten natuur en techniek;100;Westerse migratieachtergrond;8,6
 Vakspecialisten natuur en techniek;100;Niet-westerse migratieachtergrond;9,4
@@ -87,10 +87,10 @@ Bouwarbeiders;100;Nederlandse achtergrond;79
 Bouwarbeiders;100;Westerse migratieachtergrond;10,3
 Bouwarbeiders;100;Niet-westerse migratieachtergrond;10,6
 Bouwarbeiders;100;Migratieachtergrond onbekend;0,2
-Metaalarbeiders, machinemonteurs;100;Nederlandse achtergrond;78,1
-Metaalarbeiders, machinemonteurs;100;Westerse migratieachtergrond;10
-Metaalarbeiders, machinemonteurs;100;Niet-westerse migratieachtergrond;11,9
-Metaalarbeiders, machinemonteurs;100;Migratieachtergrond onbekend;0
+Metaalarbeiders machinemonteurs;100;Nederlandse achtergrond;78,1
+Metaalarbeiders machinemonteurs;100;Westerse migratieachtergrond;10
+Metaalarbeiders machinemonteurs;100;Niet-westerse migratieachtergrond;11,9
+Metaalarbeiders machinemonteurs;100;Migratieachtergrond onbekend;0
 Voedselverwerkende beroepen en overige ambachten;100;Nederlandse achtergrond;77,6
 Voedselverwerkende beroepen en overige ambachten;100;Westerse migratieachtergrond;10,3
 Voedselverwerkende beroepen en overige ambachten;100;Niet-westerse migratieachtergrond;11,9
@@ -115,18 +115,18 @@ Vakspecialisten ICT;100;Nederlandse achtergrond;76,1
 Vakspecialisten ICT;100;Westerse migratieachtergrond;10,7
 Vakspecialisten ICT;100;Niet-westerse migratieachtergrond;13,1
 Vakspecialisten ICT;100;Migratieachtergrond onbekend;0
-Tuinders, akkerbouwers en veetelers;100;Nederlandse achtergrond;90,4
-Tuinders, akkerbouwers en veetelers;100;Westerse migratieachtergrond;5,9
-Tuinders, akkerbouwers en veetelers;100;Niet-westerse migratieachtergrond;3,6
-Tuinders, akkerbouwers en veetelers;100;Migratieachtergrond onbekend;0
+Tuinders akkerbouwers en veetelers;100;Nederlandse achtergrond;90,4
+Tuinders akkerbouwers en veetelers;100;Westerse migratieachtergrond;5,9
+Tuinders akkerbouwers en veetelers;100;Niet-westerse migratieachtergrond;3,6
+Tuinders akkerbouwers en veetelers;100;Migratieachtergrond onbekend;0
 Hulpkrachten landbouw;100;Nederlandse achtergrond;88
 Hulpkrachten landbouw;100;Westerse migratieachtergrond;4,7
 Hulpkrachten landbouw;100;Niet-westerse migratieachtergrond;6,9
 Hulpkrachten landbouw;100;Migratieachtergrond onbekend;0,4
-Artsen, therapeuten en gespecialiseerd verpleegkundigen;100;Nederlandse achtergrond;83,4
-Artsen, therapeuten en gespecialiseerd verpleegkundigen;100;Westerse migratieachtergrond;9,3
-Artsen, therapeuten en gespecialiseerd verpleegkundigen;100;Niet-westerse migratieachtergrond;7,3
-Artsen, therapeuten en gespecialiseerd verpleegkundigen;100;Migratieachtergrond onbekend;0
+Artsen therapeuten en gespecialiseerd verpleegkundigen;100;Nederlandse achtergrond;83,4
+Artsen therapeuten en gespecialiseerd verpleegkundigen;100;Westerse migratieachtergrond;9,3
+Artsen therapeuten en gespecialiseerd verpleegkundigen;100;Niet-westerse migratieachtergrond;7,3
+Artsen therapeuten en gespecialiseerd verpleegkundigen;100;Migratieachtergrond onbekend;0
 Specialisten op maatschappelijk gebied;100;Nederlandse achtergrond;82,3
 Specialisten op maatschappelijk gebied;100;Westerse migratieachtergrond;7,7
 Specialisten op maatschappelijk gebied;100;Niet-westerse migratieachtergrond;9,8
@@ -135,10 +135,10 @@ Vakspecialisten gezondheidszorg;100;Nederlandse achtergrond;82,3
 Vakspecialisten gezondheidszorg;100;Westerse migratieachtergrond;7
 Vakspecialisten gezondheidszorg;100;Niet-westerse migratieachtergrond;10,6
 Vakspecialisten gezondheidszorg;100;Migratieachtergrond onbekend;0,1
-Sociaal werkers, groeps- en woonbegeleiders;100;Nederlandse achtergrond;81
-Sociaal werkers, groeps- en woonbegeleiders;100;Westerse migratieachtergrond;7,6
-Sociaal werkers, groeps- en woonbegeleiders;100;Niet-westerse migratieachtergrond;11,2
-Sociaal werkers, groeps- en woonbegeleiders;100;Migratieachtergrond onbekend;0,1
+Sociaal werkers groeps- en woonbegeleiders;100;Nederlandse achtergrond;81
+Sociaal werkers groeps- en woonbegeleiders;100;Westerse migratieachtergrond;7,6
+Sociaal werkers groeps- en woonbegeleiders;100;Niet-westerse migratieachtergrond;11,2
+Sociaal werkers groeps- en woonbegeleiders;100;Migratieachtergrond onbekend;0,1
 Verzorgenden;100;Nederlandse achtergrond;79,3
 Verzorgenden;100;Westerse migratieachtergrond;7,5
 Verzorgenden;100;Niet-westerse migratieachtergrond;13,1
